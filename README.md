@@ -1,5 +1,6 @@
 ### 📌 Hi there, I'm Stefania!
-*Italian, pasta lover 🍝, [photographer enthusiastic][2] 📸 and traveler 🌎, currently in Boston 🇺🇸 *
+*Italian, pasta lover 🍝, [photographer enthusiastic][2] 📸 and traveler 🌎*
+📍 Boston 
 
 <br>
 
