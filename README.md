@@ -1,5 +1,5 @@
 ### 📌 Hi there, I'm Stefania!
-*Italian, pasta lover 🍝, [photographer enthusiastic][2] 📸, and traveler 🌎 ...* <br>
+*Italian 🇮🇹, pasta lover 🍝, [photographer enthusiastic][2] 📸, and traveler 🌎 ...* <br>
 
 
 <br>
