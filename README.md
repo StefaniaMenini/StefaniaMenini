@@ -1,8 +1,6 @@
 ### 📌 Hi there, I'm Stefania!
 *Italian, pasta lover 🍝, [photographer enthusiastic][2] 📸 and traveler 🌎, currently in Boston 🇺🇸 *
 
-![Image](https://www.google.com/search?q=travelling&tbm=isch&tbs=rimg:CTTf2cn9RAPvYRWw8UTkysEA&rlz=1C5CHFA_enUS908US908&hl=en&sa=X&ved=0CBsQuIIBahcKEwiAtJi39NHuAhUAAAAAHQAAAAAQEA&biw=1160&bih=630#imgrc=j8BTAsoHGnsNvM) 
-
 <br>
 
 - 🎓 Graduated in *Economics and Statistic* back in 2019, I'm currently pursuing my second Master degree in *Busines Analytics* (class of 2021) 
