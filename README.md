@@ -15,6 +15,8 @@
 - 🔎 I'm actively looking for internships or entry-level positions as *Business Analyst* or *Market Researcher*
 - 💼 You can find me on *[LinkedIn][1]*
 
+<br>
+<br>
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/stefania-menini/
