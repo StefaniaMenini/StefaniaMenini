@@ -1,5 +1,3 @@
-![Alt text](relative/path/to/https://www.google.com/search?q=boston+landscape&rlz=1C5CHFA_enUS908US908&sxsrf=ALeKk03KffZ9j2Yu4O4u1MBKMbD8zb4eGA:1619648468913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwid5Jnd_KHwAhVQeKwKHbHDCA8Q_AUoAXoECAEQAw&biw=1440&bih=789#imgrc=qRaQZ7QRahTmdM)
-
 ### 📌 Hi there, I'm Stefania!
 *Italian 🇮🇹, pasta lover 🍝, [photographer enthusiastic][2] 📸, and traveler 🌎 ...* <br>
 
