@@ -16,8 +16,7 @@
 - 💼 You can find me on *[LinkedIn][1]*
 
 <br>
-[![tool - Tableau](https://img.shields.io/static/v1?label=tool&message=Tableau&color=blue&logo=github)](https://github.com/tool/Tableau)
-<br>
+
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/stefania-menini/
