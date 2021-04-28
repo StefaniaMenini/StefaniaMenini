@@ -1,3 +1,5 @@
+![image](boston-landscape.1099418_960_720.png)
+
 ### 📌 Hi there, I'm Stefania!
 *Italian 🇮🇹, pasta lover 🍝, [photographer enthusiastic][2] 📸, and traveler 🌎 ...* <br>
 
